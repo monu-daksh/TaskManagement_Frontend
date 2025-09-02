@@ -10,6 +10,8 @@ import search from "../../public/images/search.svg"
 import plus from "../../public/images/plus.svg"
 import profile from "../../public/images/profileicon.svg"
 import profilePic from "../../public/images/profile-pic.jpg"
+import drawerIcon from "../../public/images/drawer_icon.png"
+import bannerImg from "../../public/images/hero_image.png"
 
 
 
@@ -21,7 +23,9 @@ const Images = {
     search,
     plus,
     profile,
-    profilePic
+    profilePic,
+    drawerIcon,
+    bannerImg
 
 }
 
